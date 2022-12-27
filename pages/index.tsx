@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="flex h-screen justify-center align-middle">
-        <h1 className="text-xl text-red-600">Outside people</h1>
+        <h1 className="text-xl text-red-600">Outside</h1>
       </main>
     </>
   );
